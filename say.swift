@@ -24,7 +24,7 @@ else {
 }
 
 if Process.arguments.count == 3 {
-      text = Process.arguments[2]
+  text = Process.arguments[2]
 }
 
 rc = GetIndVoice(voice, vs)
