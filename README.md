@@ -10,7 +10,7 @@ https://github.com/juarlex/say
 Build instructions
 =====================
 
-$ xcrun swiftc -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk -o say say.swift
+$ xcrun swiftc -sdk $(xcrun --show-sdk-path --sdk macosx) -o say say.swift
 
 Command execution
 =================
