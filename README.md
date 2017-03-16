@@ -3,9 +3,9 @@ Description
 This is a pretty basic example to use the ApplicationServices framework
 from Swift in MacOS.
 
-Check the same implementation in C:
+Check a similar implementation in C:
 
-https://github.com/juarlex/say
+https://github.com/karmatr0n/say
 
 Build instructions
 =====================
@@ -19,7 +19,7 @@ $ say
 
 or
 
-$ say 1 Hello
+$ say Hello
 
 References
 ==========
